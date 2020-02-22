@@ -4,8 +4,6 @@
     "lint": "eslint --ext .ts ./src",
     "test": "npx ts-node src/app.ts"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "assert": "2.0.0",
     "node-fetch": "2.6.0",
