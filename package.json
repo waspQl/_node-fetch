@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "assert": "2.0.0",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "typescript": "3.8.2"
   },
   "devDependencies": {
